@@ -52,7 +52,7 @@ nav ul li a:hover{
 }
 
 .hero {
-    background: url('images/pexels-ollivves-931018.jpg');
+    background: url('pexels-ollivves-931018.jpg');
     background-repeat:  no-repeat;
     height: 100vh;
     background-size: cover;
@@ -256,7 +256,7 @@ nav ul li a:hover{
     flex-direction: column;
 }
 .about{
-    background: url('images/pexels-pixabay-53389.jpg');
+    background: url('pexels-pixabay-53389.jpg');
     background-repeat: no-repeat;
      background-size: cover;
     background-position: center;
